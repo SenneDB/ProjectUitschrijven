@@ -1,28 +1,59 @@
-Voorbereiding:
-1.1 Eigen klasses leren maken (1u)
-1.2 Een goede structuur bouwen in C# (30min-1u)
-1.3 onderzoeken of extra zelf studie nodig is (niet bepaald)
-Ontwerp:
-2.1 functies kiezen (doorheens de dag)
-2.2 onderdelen bepalen en WPF-scherm schetsen (1U)
-2.3 WPF-interface
-Materiaal
-3.1 Het benodigde materiaal bij elkaar schrapen of bestellen (10min)
-Communicatie
-4.1 SerialPort-verbinding maken (5min)
-4.2knopberichten ontvangen (10min)
-Hardware: 
-5.1Hardware aansluiten (5min)
-5.2vier knoppen afzonderlijk testen. (20min)
-Documentatie
-6.1Regelmatig commits pushen naar GitHub en (30min)
-6.2de lector toevoegen als collaborator. (10min)
-6.3Foto's nemen tijdens het project (Onbepaald)
-Code
-7.1Een C#-klasse SerialManager maken voor verbinden, ontvangen en verbreken.(2u)
-7.2Eigen klassen maken, bijvoorbeeld MacroButton (1u)
-7.3 code die de gebruikers zelf de functies laat aanpassen (2u)
-Testen
-8.1 Programma zelf testen functionaliteit (30min)
-8.2 Programma testen Dummy Proof (30min)
-8.3 fouten corrigeren (2uur)
+## Voorbereiding
+
+| Nr. | Actie | Geschatte tijd |
+| --- | --- | --- |
+| 1.1 | Eigen klassen leren maken | 1 uur |
+| 1.2 | Een goede structuur opzetten in C# | 30 minuten - 1 uur |
+| 1.3 | Onderzoeken of extra zelfstudie nodig is | Nog te bepalen |
+
+## Ontwerp
+
+| Nr. | Actie | Geschatte tijd |
+| --- | --- | --- |
+| 2.1 | Geschikte functies kiezen | Gedurende de dag |
+| 2.2 | Onderdelen bepalen en een WPF-scherm schetsen | 1 uur |
+| 2.3 | De WPF-interface ontwerpen en bouwen | Nog te bepalen |
+
+## Materiaal
+
+| Nr. | Actie | Geschatte tijd |
+| --- | --- | --- |
+| 3.1 | Het benodigde materiaal verzamelen of bestellen | 10 minuten |
+
+## Communicatie
+
+| Nr. | Actie | Geschatte tijd |
+| --- | --- | --- |
+| 4.1 | Een SerialPort-verbinding maken | 5 minuten |
+| 4.2 | Knopberichten ontvangen via de seriële verbinding | 10 minuten |
+
+## Hardware
+
+| Nr. | Actie | Geschatte tijd |
+| --- | --- | --- |
+| 5.1 | De hardware aansluiten | 5 minuten |
+| 5.2 | De vier knoppen afzonderlijk testen | 20 minuten |
+
+## Documentatie
+
+| Nr. | Actie | Geschatte tijd |
+| --- | --- | --- |
+| 6.1 | Regelmatig commits naar GitHub pushen | 30 minuten |
+| 6.2 | De lector toevoegen als collaborator | 10 minuten |
+| 6.3 | Foto's nemen tijdens het project | Nog te bepalen |
+
+## Code
+
+| Nr. | Actie | Geschatte tijd |
+| --- | --- | --- |
+| 7.1 | Een C#-klasse `SerialManager` maken voor verbinden, ontvangen en verbreken | 2 uur |
+| 7.2 | Eigen klassen maken, bijvoorbeeld `MacroButton` | 1 uur |
+| 7.3 | Code maken waarmee gebruikers de functies zelf kunnen aanpassen | 2 uur |
+
+## Testen
+
+| Nr. | Actie | Geschatte tijd |
+| --- | --- | --- |
+| 8.1 | De functionaliteit van het programma zelf testen | 30 minuten |
+| 8.2 | Het programma dummy-proof testen | 30 minuten |
+| 8.3 | Gevonden fouten corrigeren | 2 uur |
